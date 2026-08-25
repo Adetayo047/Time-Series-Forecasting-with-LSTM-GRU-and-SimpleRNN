@@ -1,2 +1,2 @@
-# MrsIyanu
-for her phd work
+# Time-Series-Forecasting-with-LSTM-GRU-and-SimpleRNN
+
